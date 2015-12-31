@@ -1,6 +1,6 @@
 # groovy-stackoverflow-bug
 
-## How to eproduce
+## How to reproduce
 
 ```
 $ groovy groovysample/Test.groovy
