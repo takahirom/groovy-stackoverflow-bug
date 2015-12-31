@@ -17,6 +17,11 @@ javac Test.java
 java Test
 ```
 
+output
+
+```
+called
+```
 
 ## Version
 $groovy -v
